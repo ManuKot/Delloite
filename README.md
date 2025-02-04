@@ -11,3 +11,8 @@ The reason the client wanted to collect telemetry was to answer 2 questions:
 
 In which location did machines break the most?
 What are the machines that broke most often in that location?
+
+
+After a worrisome number of internal complaints about gender inequality in terms of salary, Daikibo Industrials wants us to help them investigate.
+
+The Forensic Tech team has built an algorithm to quantify “level of gender pay equality” for most job roles within the company, in all company locations. Our Forensics lead thinks it would be a great idea for you to finish the job.
